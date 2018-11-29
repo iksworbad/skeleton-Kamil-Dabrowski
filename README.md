@@ -1,7 +1,7 @@
-# skeleton-in-progress
+# skeleton-Kamil-Dabrowski
 
-I started this project to make some nice simple page. I check my knowledge with html and css. The project can be expected 28 / 29-11-2018. It will not be a big deal, but I hope that I will do it in a good taste.
+I started this project to make some nice simple page. I check my knowledge with html and css. The project finished at night 29-11-2018. It is not be a big project, but I hope that I make it in a good taste.
 
-if you're a recruiter, you can wait a day or two to see the end result.
+I hope you like it and stay tune for more :D 
 
-If u want to contact me just send me e-mail: kamillo.dabrowski@gmail.com if you attached your phone number there, I will definitely call back as soon as possible.
+KD
